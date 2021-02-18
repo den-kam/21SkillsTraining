@@ -1,20 +1,22 @@
 # Hi, am Dennis Kamau
 ## I study Computer Science at [South Eastern Kenya University](https://www.seku.ac.ke/)
 
-Email: dkamau038@gmail.com
-Github: [den-kam](https://github.com/den-kam)
+Email: dmkamau475@gmail.com
+Github: [denmau](https://github.com/denmau)
+Website: [denmau.me] (https://denmau.me)
 
 **what am curently studying:**
-* Data Science
-* Programming with Java
+* Machine Learning / AI
+* Web Development with PHP
 
 **Skills**
-* Python Programing
-* Data Science
-* Java Programming (Intermediate)
-* Front-End Development: Bootstrap, JS
+* Android Development with Java
+* Machine Learning
+* Java Web Programming (Intermediate)
+* Front-End Development: Bootstrap (HTML, CSS), JS
 
 **ACHIEVEMENTS & AWARDS**
+* Got A scholarship from Master Card Foundation to study Full stack Web development
 * Peer Educator at South Eastern Kenya University
 * Participated in Andela [#BuildforSDG](https://buildforsdg.andela.com/) challenge 2020
 * Emerged position 1 at Naivasha Girls - National Computer Contest 2018
