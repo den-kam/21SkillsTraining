@@ -3,7 +3,7 @@
 
 Email: dmkamau475@gmail.com
 Github: [denmau](https://github.com/denmau)
-Website: [denmau.me] (https://denmau.me)
+Website: [denmau.me](https://denmau.me)
 
 **what am curently studying:**
 * Machine Learning / AI
